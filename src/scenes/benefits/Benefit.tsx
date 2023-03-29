@@ -21,7 +21,7 @@ const Benefit = ({ icon, title, description, setSelectedPage }: Props) => {
       whileInView="visible"
       viewport={{ once: true, amount: 0.5 }}
       variants={childVariant}
-      className='my-5 rounded-md border-2 border-gray-100 px-5 py-16 text-center'
+      className='my-5 rounded-md border-2 border-gray-50 shadow-lg px-5 py-16 text-center'
     >
       <div className='mb-4 flex justify-center'>
         <div className="rounded-full border-2 border-gray-100 bg-primary-100 p-4">
