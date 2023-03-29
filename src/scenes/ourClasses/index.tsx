@@ -11,7 +11,7 @@ import Class from "./Class";
 
 const classes: Array<ClassType> = [
   {
-    name: "Fitness Training Classes",
+    name: "Weight Training Classes",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maxime itaque praesentium voluptas voluptatem! Quas ad a placeat aliquam, vero quos ab voluptatibus quo natus dolorum sequi in quasi nobis.",
     image: image1
   },
@@ -31,12 +31,12 @@ const classes: Array<ClassType> = [
     image: image4
   },
   {
-    name: "Weight Training Classes",
+    name: "Fitness Training Classes",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maxime itaque praesentium voluptas voluptatem! Quas ad a placeat aliquam, vero quos ab voluptatibus quo natus dolorum sequi in quasi nobis.",
     image: image5
   },
   {
-    name: "Weight Training Classes",
+    name: "Training Classes",
     description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam maxime itaque praesentium voluptas voluptatem! Quas ad a placeat aliquam, vero quos ab voluptatibus quo natus dolorum sequi in quasi nobis.",
     image: image6
   },
