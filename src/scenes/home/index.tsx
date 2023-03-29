@@ -99,4 +99,4 @@ function Home({ setSelectedPage }: Props) {
   )
 }
 
-export default Home
+export default Home;
